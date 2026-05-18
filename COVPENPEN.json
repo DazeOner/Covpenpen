@@ -1,0 +1,15 @@
+{
+  "asset":"COVPENPEN",
+  "name":"COVPENPEN",
+  "description":"COVPENPEN Counterparty asset",
+  "images":[
+    {
+      "type":"icon",
+      "data":"https://raw.githubusercontent.com/DazeOner/Images-covpenpen/main/COVPENPEN%204848.png"
+    },
+    {
+      "type":"large",
+      "data":"https://raw.githubusercontent.com/DazeOner/Images-covpenpen/main/COVPENPEN.png"
+    }
+  ]
+}
